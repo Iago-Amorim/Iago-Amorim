@@ -1,24 +1,110 @@
-# 💫 About Me:
-Estou cursando Engenharia da Computação na UNIFACS. Tenho conhecimento de lógica de programação. Programo a 5 anos. Gosto de suco de guaraná e de sempre aumentar meu conhecimento. Quero colaborar na área de desenvolvimento.
+  <div align="center"> 
+       <img alt="img fullstack" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g3NzA3amI2NGdxNHF5bHRleGU3a3QxMHI5ZDY5YnNlbTIwNHZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+ </div>
 
+<h1 align="center">Olá, sou o Iago Amorim. Desenvolvedor Full Stack 🚀 </h1>
+<h3 align="center">Seja bem vindo(a) ao meu perfil no GitHub!👋</h3>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Iago-Amorim&icon=0&color=0" alt="Iago-Amorim" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iago.amorim.357/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iagoassuncaoamorim) 
+-   📚 Cursando Engenharia da Computação (UNIFACS)
+-   💻 Desenvolvendo desde 2018
+-   🎓 Desenvolvedor Full Stack - Atlantico Avanti
+-   🎓 Programador Python - Cisco Networking Academy
+-   🎓 Programador Java - UNISUL
+-   🎓 Programador C++ - UFBA
+-   🌟 Autodidata.
+-   📖 Apaixonado por adquirir e compartilhar sabedoria.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Iago-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iago-Amorim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+##
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Iago-Amorim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ <div align="center" style="width: 100%; display: flex; gap: 1rem;">
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=Iago-Amorim&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="iago-amorim" />
+   
+   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Iago-Amorim&show_icons=true&include_all_commits=true&theme=dark&layout=compact&locale=en" alt="iago-amorim" />
+   
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Iago-Amorim&icon=0&color=0)](https://visitcount.itsvg.in)
+##
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+### 🎨Front-end
+
+<div style="display: inline_block">
+  <img align="center" alt="Iago-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Iago-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+   <img align="center" alt="Iago-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Iago-ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+   <img align="center" alt="Iago-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img align="center" alt="Iago-Vue_js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+   <img align="center" alt="Iago-Vite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
+ </div>
+
+ <br/>
+ 
+### 🧑🏽‍💻 Back-end
+
+<div style="display: inline_block">
+    <img align="center" alt="Iago-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+    <img align="center" alt="Iago-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Iago-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
+    <img align="center" alt="Iago-Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" />
+    <img align="center" alt="Iago-Prisma" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original-wordmark.svg" />
+ </div>
+
+<br/>
+
+### ⚡Database
+
+<div style="display: inline_block">
+      <img align="center" alt="Iago-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+     <img align="center" alt="Iago-PostreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+      <img align="center" alt="Iago-MongoDb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+      <img align="center" alt="Iago-SQLite" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" />
+
+   </div>
+
+<br/>
+
+### ⚡Linguagens
+
+<div style="display: inline_block">
+     <img align="center" alt="Iago-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+     <img align="center" alt="Iago-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+     <img align="center" alt="Iago-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img align="center" alt="Iago-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+     <img align="center" alt="Iago-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" />
+
+   </div>
+
+<br/>
+
+### ♾️ DevOps
+
+<div style="display: inline_block"> 
+     <img align="center" alt="Iago-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+     <img align="center" alt="Iago-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+     <img align="center" alt="Iago-NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" /> 
+</div>
+
+<br/>
+
+## 🔧 Tools
+
+<div style="display: inline_block">
+  <img align="center" alt="Iago-VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Iago-DBeaver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" />
+  <img align="center" alt="Iago-Postman" height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
+  <img align="center" alt="Iago-Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/insomnia/insomnia-original.svg" /> 
+  <img align="center" alt="Iago-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" /> 
+</div>
+
+ <br/>
+ 
+ ##
+
+  <h3> Contato e network: </h3>
+  <a href="https://www.linkedin.com/in/iagoassuncaoamorim/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
